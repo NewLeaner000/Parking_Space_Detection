@@ -1,6 +1,9 @@
 # Parking_Space_Detection
 This repository contains a computer vision project aimed at detecting available parking spaces in real-time using video streams or images. The project leverages advanced techniques like object detection and image processing to identify and classify parking spaces as occupied or vacant.
 
+#Main Frame:
+* Python, OpenCV
+
 # How to use:
 * Parking_Space_Picker: This file is used to select parking spaces by drawing square regions on an image. It allows you to manually select areas where parking spaces are located.
 
