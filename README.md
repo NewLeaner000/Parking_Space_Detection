@@ -12,7 +12,7 @@ This repository contains a computer vision project aimed at detecting available 
 * Main: This is the main file to run the product. It processes the video, detects parking space occupancy, and provides the final output with visual markers.
 
 # Here Demo:
-https://drive.google.com/drive/folders/1hnsTl6HRZWnf41m4Z6Y-pziOZUYuoEX4?usp=sharing
+https://drive.google.com/drive/folders/1t8wgl7lvRmhYXG09Ds-c3j05DiuEI97X?usp=drive_link
 
 # References:
 * Murtaza's Workshop - Robotics and AI
